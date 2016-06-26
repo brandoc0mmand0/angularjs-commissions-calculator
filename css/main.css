@@ -1,0 +1,11 @@
+.container {
+	margin-top: 10%;
+	background-color: #eeeeee;
+	padding: 5%;
+}
+input, label {
+    display: block !important;
+}
+.m-b-20 {
+	margin-bottom: 20px;
+}
